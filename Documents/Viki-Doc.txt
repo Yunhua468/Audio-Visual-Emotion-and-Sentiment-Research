@@ -1,0 +1,10 @@
+Our topic(copy from Patrick Jean-Baptiste's email):
+
+The dataset can be found here:
+https://zenodo.org/record/1188976#.XqN9yG5Fw2x
+ 
+Here is a sample of the RAVDESS videos:
+https://www.youtube.com/watch?v=Y7OQoNEu3dY
+
+Here is the paper:
+https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0196391&type=printable
