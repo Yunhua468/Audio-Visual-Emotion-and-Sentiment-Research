@@ -1,5 +1,5 @@
 # Audio-Visual-Emotion-and-Sentiment-Research
 Deep Neural Network and its application with TensorFlow project
-Memebers:   
+Members:   
 Audio parts: Enis Berk Çoban and Yunhua Hua   
-Video parts: patrick-jean-baptiste, Tianyu Gao
+Video parts: Patrick Jean-Baptiste, Tianyu Gao
