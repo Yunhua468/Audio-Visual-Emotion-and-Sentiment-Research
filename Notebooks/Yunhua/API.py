@@ -72,6 +72,7 @@ def parse_filename(files):
 
 # Get the feature vectors from mfcc
 # mean_signal_length is the mean length of signals
+# get_feature_vector_from_mfcc comes from "https://harry-7.github.io/speech-emotion-recognition/html/_modules/speechemotionrecognition/utilities.html"
 def get_feature_vector_from_mfcc(signal, mean_signal_length: int, flatten: bool) -> np.ndarray:
     """
     Make feature vector from MFCC for the given wav file.
