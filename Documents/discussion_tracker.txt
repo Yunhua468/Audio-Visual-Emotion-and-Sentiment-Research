@@ -1,0 +1,300 @@
+Hi guys,
+
+Thanks for the reply! How about 5:30 or 6pm? Let us set up the next step.
+@Patrick Jean-Baptiste Does whatsapp work for you?
+
+Best,
+Yunhua
+From: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> 
+Sent: Wednesday, May 6, 2020 4:02 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>; Enis Berk Çoban <enisberkc@gmail.com>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+
+Hi,
+
+I'll be available.
+
+- Patrick Jean-Baptiste
+________________________________________
+From: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Sent: Wednesday, May 6, 2020 3:59 PM
+To: Enis Berk Çoban <enisberkc@gmail.com>; Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5 
+ 
+Hi guys,
+ 
+I am ok the whole afternoon.
+ 
+Take care,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Wednesday, May 6, 2020 3:33 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Zhao Yunhua <Zhao.Yunhua@outlook.com>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Hi Everyone,
+ 
+Sorry for late reply, how is your availability for the next 3-4 hours ?
+ 
+Best,
+Enis Berk
+
+On May 6, 2020, at 01:17, Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+ 
+Hi All,
+ 
+If you want to have a discussion, tomorrow afternoon is fine with me. Just let me know what time.
+ 
+I'm almost done processing images and I should start building the visual networks soon.
+ 
+Regards,
+Patrick Jean-Baptiste
+ 
+________________________________________
+From: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Sent: Tuesday, May 5, 2020 12:45 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Enis Berk Çoban <enisberkc@gmail.com>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5
+ 
+Hi guys,
+ 
+How about have a new discussion to set the further project steps?
+ 
+Best Regards,
+Yunhua
+From: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> 
+Sent: Friday, May 1, 2020 2:18 PM
+To: Enis Berk Çoban <enisberkc@gmail.com>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>; Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Subject: Re: Project discussion of Group 5
+ 
+Yeah, good idea.
+ 
+The project discussions were done on Zoom. My computer's audio does not work so I could not hear the discussions or say anything. I tried reloading the page and my computer crashed so I don't know what the project discussions were about.
+ 
+________________________________________
+From: Enis Berk Çoban <enisberkc@gmail.com>
+Sent: Friday, May 1, 2020 1:54 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>; Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Subject: Re: Project discussion of Group 5
+ 
+I think code should go to script folder and you can place the notebooks under the notebooks folder inside a folder with your name. You do not need to share the images, I think. You should generate embeddings or a prediction for the each video/sample then we can merge with audio embedding/predictions to make final decision and calculate precision. We might also consider merging networks later. Also, please share which files you use for training and which ones for validation and/or test. So we can use the same.
+ 
+By the way, how was the discussion yesterday,  it was too late here, I could not join. What did you talk about ?
+ 
+On May 1, 2020, at 20:48, Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+ 
+I processed a few videos, and I am able to detect the face of the speaker in the video.
+ 
+I just need to extract the face from the video frames. I can get multiple face images per video (at least 50 images) that show emotion.
+ 
+So, we should have a lot of data for face images. I will try to organize the images and upload them to my OneDrive account. Then, I will send you all a link where you can download the images if you want.
+ 
+I have some code available that I need to finish up. I can upload it to the GitHub repository.
+ 
+I just need to know which folder should I upload the code in?
+________________________________________
+From: Enis Berk Çoban <enisberkc@gmail.com>
+Sent: Friday, May 1, 2020 1:37 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>; Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Subject: Re: Project discussion of Group 5 
+ 
+I guess others are not seeing the emails, half of us does not have mics anyway, maybe we can just update each other through email or we can start a Whatsapp/telegram group? 
+ 
+On Fri, May 1, 2020 at 20:03 Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+That's fine with me.
+________________________________________
+From: Enis Berk Çoban <enisberkc@gmail.com>
+Sent: Friday, May 1, 2020 12:39 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>; Zhao Yunhua <Zhao.Yunhua@outlook.com>
+
+Subject: Re: Project discussion of Group 5 
+ 
+I cannot do 1pm, what about 3pm ? 
+ 
+On Fri, May 1, 2020 at 19:35 Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+After 1 pm today is fine with me.
+________________________________________
+From: Enis Berk Çoban <enisberkc@gmail.com>
+Sent: Friday, May 1, 2020 4:01 AM
+
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5 
+ 
+What time would you like to talk today ?
+ 
+On Apr 30, 2020, at 17:22, Enis Berk Çoban <enisberkc@gmail.com> wrote:
+ 
+Yeah, we need that for final report but it sounds like we need to prepare a update report 10 slides or so as well.
+ 
+```
+Formal Status meetings
+Posted on: Wednesday, April 29, 2020 11:38:34 AM EDT
+As I mentioned last class I want to get a formal status on every project. That means about 10 slides or so. I don't want to see fluff. I want to see per person specific activity (notebooks, scripts, libraries, documents) in the github. You should link to your group on blackboard. You should change your group name to reflect the project goal. You should make bar graphs showing things like commits per person, or closed issues per person. This is the kind of thing I will be looking at at the final analysis. By default, assume I am skeptical about work done. Thanks,
+michael
+```
+ 
+On Apr 30, 2020, at 17:18, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+ 
+Hi Enis,
+ 
+I think the last class we need to do the presentation for our project, but I am not sure about the paper presentation time.
+ 
+Best regards,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Thursday, April 30, 2020 10:16 AM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Hey Everyone,
+ 
+When did professor mention about formal status meetings which we need a progress presentation ? 
+Are we suppose to prepare that for tonight ?
+ 
+Best,
+Enis
+ 
+On Apr 26, 2020, at 22:03, Enis Berk Çoban <enisberkc@gmail.com> wrote:
+ 
+See you all in 20min.
+ 
+Patrick, did you get the data? Can you share it with me to check it out ?
+ 
+ 
+On Apr 26, 2020, at 22:01, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+ 
+Than you guys, let us start at 3:20pm? Because Tianyu said he need 10 minutes~
+ 
+Best,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Sunday, April 26, 2020 2:58 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Zhao Yunhua <Zhao.Yunhua@outlook.com>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Hi Everyone,
+ 
+I am free now as well, would you like to talk ?
+ 
+Best,
+Enis
+ 
+ 
+On Apr 26, 2020, at 21:26, Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+ 
+Hi, 
+ 
+I'm available any time today up until 6:00pm.
+ 
+- Patrick Jean-Baptiste
+________________________________________
+From: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Sent: Sunday, April 26, 2020 2:22 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Enis Berk Çoban <enisberkc@gmail.com>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5
+ 
+@Enis Berk Çoban Hello Enis, Patrick and Tianyu are ok to talk, when are you available? When can we have a talk? Thank you.
+ 
+Best regards,
+Yunhua
+From: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> 
+Sent: Saturday, April 25, 2020 6:43 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>; Enis Berk Çoban <enisberkc@gmail.com>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Hi,
+ 
+Thank you for the GitHub invitation. It might be late for us all to discuss the project today.
+Any time after 1:00pm is fine with me if we want to meet tomorrow.
+ 
+We should start planning the next steps of project, and how we are going to build the model.
+ 
+Regards,
+Patrick  Jean-Baptiste
+ 
+________________________________________
+From: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Sent: Saturday, April 25, 2020 6:17 PM
+To: Enis Berk Çoban <enisberkc@gmail.com>; Tianyu Gao <tgao@gradcenter.cuny.edu>; Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5
+ 
+Hi guys,
+ 
+Could we have a 10 or 15 min to talk about our project? Let us know your available time if you agree to talk a bit. Thank you.
+ 
+Best Regards,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Friday, April 24, 2020 11:58 PM
+Cc: Zhao Yunhua <Zhao.Yunhua@outlook.com>; Tianyu Gao <tgao@gradcenter.cuny.edu>; Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Spotify released this dataset just last week, check it out, maybe we can come up with a simple but interesting idea 
+ 
+https://podcastsdataset.byspotify.com/
+ 
+Best,
+Enis Berk
+ 
+On Apr 25, 2020, at 03:15, Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+ 
+Hi All,
+ 
+I found an audio-visual dataset of emotional speech called RAVDESS. It does not require an account to access, and it has several actors with different emotions. 
+ 
+The dataset can be found here:
+https://zenodo.org/record/1188976#.XqN9yG5Fw2x
+ 
+Here is a sample of the RAVDESS videos:
+https://www.youtube.com/watch?v=Y7OQoNEu3dY
+ 
+Here is the paper:
+https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0196391&type=printable
+ 
+I think this dataset has plenty of data that we can work with, and it is labeled.
+ 
+Let me know if you want to work with this dataset or if you prefer another dataset.
+ 
+Stay safe,
+Patrick Jean-Baptiste
+ 
+ 
+________________________________________
+From: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Sent: Friday, April 24, 2020 2:03 PM
+To: enisberkc@gmail.com <enisberkc@gmail.com>; Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: FW: Project discussion of Group 5 
+ 
+Hello guys, I am in the classroom, professor left it for us to use to discuss projects, where are you guys?
+ 
+From: Zhao Yunhua 
+Sent: Friday, April 24, 2020 11:59 AM
+To: enisberkc@gmail.com; pjeanbapti@gradcenter.cuny.edu; tgao@gradcenter.cuny.edu
+Subject: Project discussion of Group 5 
+ 
+Hi guys,
+ 
+I am sorry, I thought I have sent this email, but I found it is in my draft box, sorry for that.
+ 
+I have an idea about our project, I want to do sth about speech emotion recognition, I found one paper about it, also there are some Chinese dataset. Let me know if you guys have some comments, thank you.
+Paper:
+https://ieeexplore.ieee.org/abstract/document/8049931
+Dataset:
+Chinese-Speech-Emotion-Datasets
+https://github.com/AkishinoShiame/Chinese-Speech-Emotion-Datasets
+German-dataset I forgot where I found it, but I have a local version.
+ 
+Best Regards,
+Yunhua
+ 
