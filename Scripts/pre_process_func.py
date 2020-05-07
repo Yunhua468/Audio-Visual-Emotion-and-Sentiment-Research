@@ -17,6 +17,7 @@ import numpy as np
 import math
 import csv
 
+EXCERPT_LENGTH=10
 
 def load_wav(input_file_path):
     """ Loads wav file and returns an array within wav data format
