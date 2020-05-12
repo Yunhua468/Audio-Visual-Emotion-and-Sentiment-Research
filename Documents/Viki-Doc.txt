@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=Y7OQoNEu3dY
 
 Here is the paper:
 https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0196391&type=printable
+
+Split:
+dropbox.com/s/qdhtexle4p0ngc3/DatasetSplitCSV.zip?dl=1 -O DatasetSplitCSV.zip
