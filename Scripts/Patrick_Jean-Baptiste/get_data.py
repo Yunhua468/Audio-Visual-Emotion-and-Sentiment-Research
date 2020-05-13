@@ -1,10 +1,10 @@
-##################################################################
+########################################################################
 #
-# Description: Get Image File Names and Labels
+# Description: Get Image File Names and Labels From Audio Emotion Data
 #
 # This function retrieves the names of the image files along with 
 # the corresponding labels indicating the emotion expressed in 
-# the images.
+# the images, which correlate to the audio emotion data.
 #
 # Input:
 #   df: A data frame.
@@ -16,7 +16,7 @@
 #
 # Author: Patrick Jean-Baptiste
 #
-##################################################################
+#######################################################################
 
 
 import numpy as np
@@ -28,14 +28,19 @@ def get_data(df):
     
     for row in df.iterrows():
         
+        # Convert the name of an audio file into the names of image 
+        # files.
         img_file = row[1][0].split(".")[0] + ".jpg" 
     
         img_file1 = img_file.replace(img_file[0:2], "01")
         img_file2 = img_file.replace(img_file[0:2], "02")
         
+        # Append the names of the image files to an array.
         Img_Files.append(img_file1)
         Img_Files.append(img_file2)
         
+        # Convert the emotion label to its corresponding numerical 
+        # value.
         if (row[1][1] == "neutral"):
             Img_Labels.append('1')
             Img_Labels.append('1')
