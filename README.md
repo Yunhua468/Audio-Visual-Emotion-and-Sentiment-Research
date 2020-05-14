@@ -16,6 +16,9 @@ Period of our project:
 6) Enis proves several organized files and leads us to move on
 7) We make the PPT together.  
 
-             
+File organization:  
+1) We use the "Issues" to track some problems  
+2) Our email information: https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Documents/discussion_tracker.txt  
+3) dataset info: https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Documents/Viki-Doc.txt  
 
 
