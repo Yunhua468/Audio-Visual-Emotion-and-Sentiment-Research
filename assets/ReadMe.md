@@ -15,9 +15,12 @@
 
 #### Predictions with model trained on audio files to be used with Vision model
 [dropboxLink](https://www.dropbox.com/s/6pt1xmndxpjipwj/results.npy?dl=1)
+
 Here are the predictions of test and validation sets using only Audio files, generated code is at [notebook](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/EnisBerk/YunhuaExp.ipynb)
+
 scores of the model: training accuracy: 0.8279 - validation accuracy: 0.6497 
-How to load the file: 
+
+How to load the file: (it is a dict of dicts, first keys are test,valid,train and second keys are name of the audio files)
 ```python3
 results=np.load('results.npy',allow_pickle=True)[()]
 ```
