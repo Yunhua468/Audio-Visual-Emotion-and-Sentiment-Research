@@ -11,3 +11,6 @@ https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0196391&t
 
 Split:
 dropbox.com/s/qdhtexle4p0ngc3/DatasetSplitCSV.zip?dl=1 -O DatasetSplitCSV.zip
+
+Processed dataset:
+https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/assets/ReadMe.md
