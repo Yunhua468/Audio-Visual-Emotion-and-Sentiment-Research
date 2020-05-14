@@ -1,4 +1,415 @@
-5.7：discussion by creating "Issues", please check there.
+I see :) you do not need to re-run it again, you can report old results if you have them with you. Or just use the code I shared with you, it is working. Whichever easier for you.
+
+
+On May 14, 2020, at 04:20, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+
+Besides, that is why I was so surpriced for my “93%” accuracy, because the first time it is less than 70%. Hahaha
+ 
+Best,
+Yunhua
+From: Zhao Yunhua 
+Sent: Wednesday, May 13, 2020 9:19 PM
+To: Enis Berk Çoban <enisberkc@gmail.com>
+Subject: RE: Project discussion of Group 5
+ 
+At the beginning, I thought I may have time to process images also, so I borrowed a friends remote server to do, and then I moved my code to local, it is the first one I ran in fact, but do not worry, anyway I will run tonight again.
+ 
+Best,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Wednesday, May 13, 2020 9:14 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Subject: Re: Project discussion of Group 5
+ 
+ 
+Just put in the notebooks folder ? 
+ 
+On Thu, May 14, 2020 at 04:12 Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+In fact, I tried, the result is less than 70%, similar with song only, but I do not know where I put that code, I will try again tonight.
+ 
+Best,
+Yunhua
+ 
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Wednesday, May 13, 2020 9:04 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Subject: Re: Project discussion of Group 5
+ 
+Both of you, why do not you try splitting train/valid/test yourself and see if results improve ? 
+ 
+On Thu, May 14, 2020 at 04:01 Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+Thank you Patrick,
+ 
+I got an 15% accuracy with the csv file split, it is random too, so I think maybe there is some problem with my code to process the files.
+But you got similar accuracy, there also may be some mis-match in the csv with the file and label? just a guess.
+ 
+For the slides part, how about use the previous one?
+https://docs.google.com/presentation/d/1gxQTJOMib2Do1Qw4OEA0W-ysRujED8cXKAmyx6zITss/edit#slide=id.g776df104f5_2_156
+ 
+Best,
+Yunhua
+From: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> 
+Sent: Wednesday, May 13, 2020 8:55 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>; Enis Berk Çoban <enisberkc@gmail.com>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Hi All,
+ 
+I finished training the visual model using the train, validation, and test set from the .csv file.
+I also got an accuracy of 15% for training and an accuracy of 16% for testing.
+ 
+I decreased the number of epochs and the batch size, but the model does not give above 25% accuracy. 
+ 
+The notebook is on GitHub called "visual_emotion_recognition.ipynb".
+ 
+I will attempt to keep adjusting the model to see if I can get better results, but I don't think merging audio and visual would give better results since we got similar results on separate models.
+ 
+Where can I add slides to the presentation?
+ 
+Regards,
+Patrick Jean-Baptiste
+ 
+________________________________________
+From: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Sent: Wednesday, May 13, 2020 3:32 PM
+To: Enis Berk Çoban <enisberkc@gmail.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5
+ 
+I thought you are waiting for my result to make slides, that is why I said I could re-run and it does not impact our process, but if Patrick is waiting for the result, I think no need to wait now, just take one to try to get a better result. Sorry for my bad explanation.
+ 
+Best,
+Yunhua
+From: Zhao Yunhua 
+Sent: Wednesday, May 13, 2020 3:27 PM
+To: Enis Berk Çoban <enisberkc@gmail.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5
+ 
+I did not use your code, I did it by myself last night, I create the dictionary of filename and filepath,
+and I tried dropout and some ideas I know to my model, but it still does not work, if we have time, ok, let us try to read some papers to get a better result, I mean it is too late.
+ 
+Besides, the professor said he does not care about our accuracy result, I think just show him what we already did, show him our work, we tried and got some result, even it is not perfect result, but we tried my ways.
+ 
+We already tried train audio-song, audio-speech, audio-song-speech, video-only, if Patrick could merge video-audio, then we have this result also, if can not, I think we just tell the honest what we already did.
+And how we struggled, what do you think?
+ 
+Best,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Wednesday, May 13, 2020 3:22 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+"I mean we could present the separate result, like video a result and audio a result
+then give a merge result.” Of course, we should definitely do that.
+ 
+Okay, it is alright, if you are saying your model is doing worse then I can share mine. 
+ 
+"Besides, my model got 15% accuracy with the csv file it must be some problem but using randomly split I got less 70% accuracy I will try to find my previous code."
+ 
+Yes, there should be a mistake because I got 70 with your code using the csv file and I shared it with you. But it was overfitting, then you said we could get  a better result with Dropout etc.  I thought you were going to use that notebook and see if you can improve it. 
+ 
+the notebook I am talking about https://colab.research.google.com/drive/1PUnLKPBx2BLT4TL5S0FO_L1hPeZqg2I2?usp=sharing
+ 
+If you did not work on that notebook and do not have time to work on the project anymore, it is alright. Just let me know. 
+ 
+ 
+On May 13, 2020, at 22:17, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+ 
+Besides, my model got 15% accuracy with the csv file, it must be some problem, but using randomly split, I got less 70% accuracy, I will try to find my previous code.
+ 
+Yunhua
+ 
+From: Zhao Yunhua 
+Sent: Wednesday, May 13, 2020 3:15 PM
+To: Enis Berk Çoban <enisberkc@gmail.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5
+ 
+I mean we could present the separate result, like video a result and audio a result, then give a merge result.
+I use the split dataset, my result is much worse than yours, if you wait for this result, I think Patrick could use your model.
+ 
+ 
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Wednesday, May 13, 2020 3:09 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+What do you mean by “other” work ? Patrick needs your model results to merge the models. I can share with him but I need your model. So you need to tell us what is the best model architecture for song and speech. 
+ 
+We can show all results, we just need to explain what is the input, what is the result and why it is good or bad ?
+We cannot just share results of song because it is good. 
+ 
+Enis
+ 
+On May 13, 2020, at 21:56, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+ 
+For the sone and speech together part, I will rerun, I got a really low accuracy, but I think we could start other works now, our slides could show our good and bad results together to show our efforts, or we just show the best one?
+ 
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Wednesday, May 13, 2020 2:46 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+This is only trained on the song, we need best result that are trained on both of them. 
+ 
+On May 13, 2020, at 21:39, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+ 
+For now my best result is https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/audio/Notebooks/Yunhua/DL_project_audio_song.ipynb
+ 
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Wednesday, May 13, 2020 2:31 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+You can try new models if you like but it is okay if you do not. What is the best accuracy for train and validation you got so far ? Can you share the model and notebook with us ? 
+ 
+On Wed, May 13, 2020 at 21:28 Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+Thanks for understanding, the image part is too late for me to try, I am not a very fast programmer, but I could run the audio part again try a better result, but it does not impact we start to make our slides.
+ 
+Best,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Wednesday, May 13, 2020 2:21 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Hi Yunhua, 
+ 
+It is alright, do not worry about it. We were suppose to finish this yesterday. I am talking about only audio model that we will share the results with Patrick. What was the highest score you got ? We should pick the best model and share these results. 
+ 
+Best,
+Enis 
+ 
+On Wed, May 13, 2020 at 21:12 Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+Hi guys,
+ 
+I can no merge them, I failed last night, I do not know the reason, and now if changed the csv, I need to all restart again, so I think if Patrick got the result, so let us put our models result together then, I give up merging the original features, I do not have enough time to start again.
+ 
+Best,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Wednesday, May 13, 2020 1:58 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>; Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Subject: Re: Project discussion of Group 5
+ 
+Great, thanks!
+ 
+Yunhua, what’s the best score you got with your model ? We should all share models and results with each other for the merging part.  
+ 
+On Wed, May 13, 2020 at 20:51 Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+Hi Enis, 
+ 
+I updated the emotion images folder and added the 12 emotion images from the song files of actor 20. I just selected a different video frame and I was able to detect the face.
+ 
+I also updated the .csv file with the information from the 12 images.
+ 
+There are still two images missing from the videos. I think they are from the speech files of actor 17 since those files were not in the downloaded folder.
+ 
+Regards,
+Patrick Jean-Baptiste
+ 
+ 
+________________________________________
+From: Enis Berk Çoban <enisberkc@gmail.com>
+Sent: Wednesday, May 13, 2020 12:57 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>; Zhao Yunhua <Zhao.Yunhua@outlook.com>
+
+Subject: Re: Project discussion of Group 5
+ 
+Hi Patrick,
+ 
+Thank you for uploading images. Could you take screenshots of the faces yourself or is there no person on the video at all ?
+ 
+here is the link to file Patrick uploaded https://www.dropbox.com/s/4myqvh075i7uaa8/Patrick%20Jean-Baptiste%20-%20Emotion_Image_Data.zip?dl=1
+ 
+On May 13, 2020, at 19:37, Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+ 
+Hi All,
+ 
+I uploaded 4890 emotion images to the same Dropbox link. These are images for both video only and audio-visual videos incorporating speech and song. 
+ 
+I extracted one emotion image per video. 14 videos were not used since a face could not be detected. 12 of them were from the song files of actor 20.
+ 
+I also sent a .csv file that matches the video file name with the emotion.
+ 
+Regards,
+Patrick Jean-Baptiste
+ 
+________________________________________
+From: Enis Berk Çoban <enisberkc@gmail.com>
+Sent: Wednesday, May 13, 2020 9:40 AM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>; Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Subject: Re: Project discussion of Group 5
+ 
+Hi Patrick,
+ 
+Please share the images with us also. You can upload them to the same Dropbox link again. 
+ 
+Me and Yunhua made some mistakes and found each other’s bugs by running each other’s code. We should do the same with yours. Please, make sure the notebook that you train the model is self-sufficient that I can run it from beginning to end without spending too much time on it. If you like you can check my notebooks, for example I download data from the Dropbox in the first cell so that notebook does not depend on data on my local. And anyone can run it without any extra effort. 
+ 
+Best,
+Enis 
+ 
+On Wed, May 13, 2020 at 09:58 Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+Hi All,
+ 
+I downloaded the videos for song and I'm in the process of putting them together in a folder. I am able to match the image files with the audio files.
+ 
+I'm also training the visual model at the same time. Hope to get results in the morning that I can share.
+ 
+If you were able to get the predictions for the audio part, please send them or post on them on GitHub.
+ 
+Regards,
+Patrick Jean-Baptiste
+________________________________________
+From: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Sent: Tuesday, May 12, 2020 10:18 PM
+To: Enis Berk Çoban <enisberkc@gmail.com>; Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5
+ 
+I tried again, my model accuracy is 15%, I do not know what happened, lol…
+ 
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Tuesday, May 12, 2020 8:51 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Zhao Yunhua <Zhao.Yunhua@outlook.com>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+It is 4am here, I will sleep soon and as I said we are not suppose to write code tomorrow just prepare the presentation.
+Sadly, Yunhua’s model is overfitting as well, so best model we have is achieving only 70% accuracy.
+ 
+ 
+On May 13, 2020, at 02:47, Enis Berk Çoban <enisberkc@gmail.com> wrote:
+ 
+I thought we discussed this before, we are doing both of them. Maybe you can switch to using Colab or any other cloud solution. Downloading all files takes 30-40 min on Colab. 
+Here you can see an example  of how to download all files on Colab
+ 
+import requests
+r = requests.get('https://zenodo.org/api/records/1188976')
+
+with open("download.txt", "w+") as f: for file in r.json()["files"]: aLink=(file["links"]["self"]) f.write(aLink+"\n”)
+ 
+!sudo apt-get install -y aria2
+!aria2c -i download.txt -d ./dataset
+!unzip "/content/SharedDatasets/dataset/*" -d ./unzipped/
+ 
+ 
+ 
+On May 13, 2020, at 02:39, Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+ 
+Hi,
+ 
+I was reading the data for the train, validation, and test sets, and I noticed that we are using different data for audio and video that do not correspond to each other.
+ 
+For audio, there are 2452 files for speech and song combined.
+For audio-visual and video only, there are 2880 files for just speech.
+ 
+We can match the audio and video files if we either:
+ 
+1). Use only the speech files which be 1440 files for audio and 1440 files for video.
+ 
+2). Have me download the song files for video, which would lead to 2452 audio files and 2452 video files. It could take me a while for me to download the files.
+ 
+For the image files I sent you, if it begins with "02", it is video only.
+ 
+Let me know what you prefer we do.
+ 
+Regards,
+Patrick Jean-Baptiste
+ 
+ 
+ 
+ 
+________________________________________
+From: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Sent: Tuesday, May 12, 2020 3:05 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Enis Berk Çoban <enisberkc@gmail.com>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5
+ 
+Hello, where are you guys? I did not see anyone in the group room
+ 
+From: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> 
+Sent: Tuesday, May 12, 2020 1:24 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>; Enis Berk Çoban <enisberkc@gmail.com>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Hi,
+ 
+That's fine with me.
+ 
+- Patrick Jean-Baptiste
+________________________________________
+From: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Sent: Tuesday, May 12, 2020 1:04 PM
+To: Enis Berk Çoban <enisberkc@gmail.com>; Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5
+ 
+Hi guys, I am ok with the time.
+ 
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Tuesday, May 12, 2020 1:04 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Zhao Yunhua <Zhao.Yunhua@outlook.com>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Lets meet at 3pm them ? 
+ 
+On May 12, 2020, at 06:58, Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+ 
+Hi All,
+ 
+Sorry for the late response. I was training a visual model on emotion images from the RAVDESS dataset, and my computer crashed. I lost all my work on the project and had to re-download the dataset.
+ 
+I will try to build and train another model as fast as I can. I will be available after 1pm on Tuesday.
+ 
+Regards,
+Patrick Jean-Baptiste
+ 
+ 
+________________________________________
+From: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Sent: Monday, May 11, 2020 10:17 PM
+To: Enis Berk Çoban <enisberkc@gmail.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5
+ 
+I agree with Enis, we need to set down what is to do next, and use a little time to complete the code.
+ 
+Best regards,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Monday, May 11, 2020 10:15 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Hey Everyone, 
+ 
+We still did not finish the project, we will present it in two days. Please, finish whatever you want to and lets talk at 10am on Tuesday.
+ 
+Best,
+Enis Berk
+ 
+On May 11, 2020, at 23:59, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+ 
+Hi Enis,
+
 
 Hi guys,
 
