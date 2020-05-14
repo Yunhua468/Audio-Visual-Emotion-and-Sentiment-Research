@@ -6,7 +6,7 @@ Audio parts: Enis Berk Çoban and Yunhua Zhao
              We use the audio-song, audio-speech, audio-song-speech files separately to train models to detect emotion.  
              Also we use different models(VGGish and LSTM) to do the audio emotion recognition.  
 
-Video parts: Patrick Jean-Baptiste and Tianyu Gao  
+Video parts: Patrick Jean-Baptiste
              We use images of actors' faces that express an emotion. The images are extracted from the video only and audio-visual files              of the RAVDESS dataset for both speech and song. The objective is to create a visual model to recognize emotions                        from images.
              
 #### Period of our project:  
