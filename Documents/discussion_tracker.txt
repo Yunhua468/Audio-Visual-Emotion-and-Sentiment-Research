@@ -1,3 +1,175 @@
+Hi guys,
+
+I merged the original features and input the merged features to a simple dense layer network, the result is a disaster, I think let us just tell the truth, tried but no good result.
+Sorry Enis, I did not use your code, because it will take me more time to merge with videos I think.
+https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Yunhua/model_merge.ipynb
+
+Best,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Thursday, May 14, 2020 12:44 PM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Zhao Yunhua <Zhao.Yunhua@outlook.com>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+
+Patrick,
+
+Will you be able to talk in the presentation ? If not, can you write down what do you want us to say about your slides 
+
+Enis
+
+On May 14, 2020, at 19:26, Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+
+Hi All,
+
+I continued training some models on different splits of data, and I even increased the size of the images. Still cannot get better than 15% accuracy.
+
+I'll start putting together some slides for the presentation.
+
+Regards,
+Patrick Jean-Baptiste 
+
+________________________________________
+From: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Sent: Thursday, May 14, 2020 11:52 AM
+To: Enis Berk Çoban <enisberkc@gmail.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5
+ 
+Sorry, too many files, which one? Can you share again?
+ 
+Best,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Thursday, May 14, 2020 11:51 AM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+I shared the working version with you, why do not you compare them ?
+
+On May 14, 2020, at 18:49, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+ 
+I do not know why it is 15%, I tried to find the problem, but I think the code is right when I check…lol…
+ 
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Thursday, May 14, 2020 11:21 AM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+If you have time, it would be great to do these things.
+
+On May 14, 2020, at 18:16, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+ 
+https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Yunhua/audio_song_speech.ipynb
+ 
+I want to try the split data set, I do not know why I got 15% on this dataset, and if I have time I want to try to merge them, but I think can not depend on it now.
+ 
+Best,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Thursday, May 14, 2020 11:14 AM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+If we are going to report that, it should be on the github.
+What do you wanna try with Patric’s updated CSV file? 
+ 
+Enis
+ 
+On May 14, 2020, at 18:11, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+ 
+But that is for the dataset I split by myself, do you need that? I want to try again on Patrick’s update CSV file.
+ 
+Yunhua
+ 
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Thursday, May 14, 2020 11:09 AM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+thats great, can you share the notebook with us?
+ 
+On May 14, 2020, at 18:08, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+ 
+Test accuracy.
+ 
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Thursday, May 14, 2020 10:54 AM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Which accuracy, train,test, validation ?
+
+
+
+
+On May 14, 2020, at 17:52, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+ 
+Thanks Enis! I re-run my model on the song and speech files, the accuracy is 73%.
+ 
+Best,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Thursday, May 14, 2020 10:47 AM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Cc: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Here is the link to what Patrick uploaded last:
+ 
+https://www.dropbox.com/s/6s06zacfu9jn4z8/Patrick%20Jean-Baptiste%20-%20Emotion_Image_Data_Modified.zip?dl=0
+ 
+ 
+
+
+
+
+
+On May 14, 2020, at 17:45, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+ 
+Hi Patrick,
+ 
+You said you update a new csv file, could you tell where it is? Thank you.
+ 
+Best,
+Yunhua
+From: Enis Berk Çoban <enisberkc@gmail.com> 
+Sent: Thursday, May 14, 2020 10:04 AM
+To: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>
+Cc: Zhao Yunhua <Zhao.Yunhua@outlook.com>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+I meant your own photo, since you do not have camera or microphone, I though putting our photos on the slides to give you some presence. 
+
+
+
+
+
+
+On May 14, 2020, at 08:19, Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> wrote:
+ 
+I added an introduction for the visual part to the README in the master branch.
+ 
+Thanks for merging the visual branch to the master branch.
+ 
+I trained different models (with different numbers of layers and nodes) on random splits of data, but the accuracy is still between 13% and 16%. I even used a VGG16 model pretrained on ImageNet, but it does not improve accuracy.
+ 
+For the photos, do we want to display an image of every emotion as an example?
+________________________________________
+
+
+
+
+
+
+
 Patrick, do you have a photo that we can use on the presentation ?
 
 
