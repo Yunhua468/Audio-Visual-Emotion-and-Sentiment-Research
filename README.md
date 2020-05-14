@@ -13,7 +13,8 @@ Period of our project:
 3) Enis split the dataset into train, validation, test sets, and make a csv file, so that everyone could use the same train-val-test dataset to compare the final result.  
 4) Patrick detect the face part from the image
 5) Enis try Yunhua's model to the splited dataset, Yunhua tried Enis' model, Patrick train model on the split dataset to do the emotion classification  
-6) We make the PPT together.  
+6) Enis proves several organized files and leads us to move on
+7) We make the PPT together.  
 
              
 
