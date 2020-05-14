@@ -1,3 +1,37 @@
+Patrick, do you have a photo that we can use on the presentation ?
+
+
+On May 14, 2020, at 06:46, Zhao Yunhua <Zhao.Yunhua@outlook.com> wrote:
+
+Hi Patrick,
+ 
+I’ve already merged the visual branch to the master branch, Enis just now guided me.
+ 
+Best,
+Yunhua
+From: Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu> 
+Sent: Wednesday, May 13, 2020 11:12 PM
+To: Zhao Yunhua <Zhao.Yunhua@outlook.com>; Enis Berk Çoban <enisberkc@gmail.com>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: Re: Project discussion of Group 5
+ 
+Great. I'll add some slides to the presentation and add an introduction to the README in the master branch.
+ 
+I'll also try using different models on different splits of the data to see if results improve.
+ 
+Then, I'll look into the audio model predictions.
+ 
+Thanks.
+________________________________________
+From: Zhao Yunhua <Zhao.Yunhua@outlook.com>
+Sent: Wednesday, May 13, 2020 10:49 PM
+To: Enis Berk Çoban <enisberkc@gmail.com>; Patrick Jean-Baptiste <pjeanbapti@gradcenter.cuny.edu>; Tianyu Gao <tgao@gradcenter.cuny.edu>
+Subject: RE: Project discussion of Group 5
+ 
+@Patrick Jean-Baptiste Hi Patrick, can you add a introduction to the readme in master branch? I added our audio part, but I am not sure video part, thank you.
+ 
+Best,
+Yunhua
+
 I see :) you do not need to re-run it again, you can report old results if you have them with you. Or just use the code I shared with you, it is working. Whichever easier for you.
 
 
