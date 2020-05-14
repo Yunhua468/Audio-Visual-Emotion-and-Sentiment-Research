@@ -1,1 +1,2 @@
-First Week(Due is 30/4): Code parts, at least finish the pre-processing code part
+Every one's script code work is under his/her name folder  
+the files without any folder is the guild notebook
