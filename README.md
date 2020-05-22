@@ -16,7 +16,7 @@ Video parts: Patrick Jean-Baptiste
    Patrick does initial video preprocessing.
 3) Enis split the dataset into train, validation, test sets, and make a csv file, so that everyone could use the same train-val-test dataset to compare the final result.  
 4) Patrick detects and extracts the actors' faces from the images.
-5) Enis try Yunhua's model to the splited dataset, Yunhua tried Enis' model; Patrick trains a model on the split dataset to do the visual emotion classification  
+5) Enis try Yunhua's model to the splited dataset, Yunhua tried Enis' model output to Yunhua's model; Patrick trains a model on the split dataset to do the visual emotion classification  
 6) Enis proves several organized files and leads us to move on.
 7) Yunhua merged the original features of audio and video and put the merged features to one dense layers model.  
 8) We make the PPT together.  
