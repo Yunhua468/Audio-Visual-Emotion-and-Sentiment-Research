@@ -15,3 +15,6 @@ old one(video and audio first file number differ): dropbox.com/s/qdhtexle4p0ngc3
 
 Processed dataset:
 https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/assets/ReadMe.md
+
+Report:  
+https://docs.google.com/document/d/1bf0QHIvIYDrb83qG_7mQl5UgG8hAGwHSfBEerhrQPus/edit
