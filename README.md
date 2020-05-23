@@ -48,8 +48,8 @@ We use images of actors' faces that express an emotion. The images are extracted
 	* [VGGish model API](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Scripts/models_api.py) by [@EnisBerk](https://github.com/EnisBerk)
 	* [Loading Files](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Yunhua/API.py)  by [@Yunhua468](https://github.com/Yunhua468)
 	* [Detecting and Extracting faces](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Scripts/Patrick_Jean-Baptiste/detection_and_extraction.py) by  [@patrick-jean-baptiste](https://github.com/patrick-jean-baptiste)
-4. Our email information: https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Documents/discussion_tracker.txt  
-5. dataset info: https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Documents/Viki-Doc.txt  
-
-
+4. We also have a folder for assets such as models or embedding files:
+	* (assets ReadMe)[https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/tree/master/assets]
+5. Our email information: https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Documents/discussion_tracker.txt  
+6. dataset info: https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Documents/Viki-Doc.txt  
 
