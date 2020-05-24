@@ -1,6 +1,6 @@
 1. Every one's script code work is under his/her name folder    
-2. The files without any folder is our best result notebooks  
-3 .The following is the summary of our work.
+2. The 3 python files under Notebook folder is our best result notebooks  
+3. The following is the summary of our work.
 
 The following link is our final project notebooks:  
 1) Video part best result: 
