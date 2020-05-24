@@ -1,4 +1,4 @@
-1. Every one's script code work is under his/her name folder    
+1. Everyone's script code work is under his/her name folder    
 2. The 3 python files under Notebook folder is our best result notebooks  
 3. The following is the summary of our work.
 
@@ -13,13 +13,19 @@ https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/ma
 
 Our models:  
 1) Video parts:   
-video preprocessing:https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/video_preprocessing.ipynb   
+Video preprocessing: https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/video_preprocessing.ipynb   
 
-face detection:https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/face_detection.ipynb  
+Face detection: https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/face_detection.ipynb  
 
-face extraction:https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/face_extraction.ipynb  
+Face extraction: https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/face_extraction.ipynb  
 
-emotion detection model:https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/visual_pre-trained_model.ipynb  
+Emotion image collection: https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/emotion_image_collection.ipynb
+
+Initial visual models: https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/visual_models.ipynb
+
+Visual emotion recognition: https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/visual_emotion_recognition.ipynb
+
+Pre-trained VGG model:https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/visual_pre-trained_model.ipynb  
 
 2) Audio part notebooks:   
 Song+Speech(LSTM model):https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Yunhua/audio_song_speech.ipynb   
