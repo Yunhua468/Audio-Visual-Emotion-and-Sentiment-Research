@@ -36,13 +36,13 @@ Our models:
 
 * [LSTM model on embeds](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Yunhua/vggish_feature_to_my_model.ipynb)  
 
-* [Class model on Embeds](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/EnisBerk/ClassicModelOnEmbeds.ipynb)  
+* [Classical ML algorithms on Embeds](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/EnisBerk/ClassicModelOnEmbeds.ipynb)  
 
-* [Deep learning model on Embeds](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/EnisBerk/DeepModelOnEmbeds.ipynb)  
+* [Deep learning model trained on Embeds](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/EnisBerk/DeepModelOnEmbeds.ipynb)  
 
-* [Transfer learning VGGish](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/EnisBerk/TransferLearningVggish.ipynb)  
+* [Creating embeddings for Transfer learning with VGGish](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/EnisBerk/TransferLearningVggish.ipynb)  
 
 3) Merge part:  
-* [audio model and video model merge](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/EnisBerk/TwoInputOneModel.ipynb)  
+* [Single model with one module per input type](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/EnisBerk/TwoInputOneModel.ipynb)  
 
 * [audio original feature and image features merge](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Yunhua/model_merge.ipynb)  
