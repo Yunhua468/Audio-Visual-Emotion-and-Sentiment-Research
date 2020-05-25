@@ -1,2 +1,4 @@
 The final presentation slides:
-https://docs.google.com/presentation/d/1gxQTJOMib2Do1Qw4OEA0W-ysRujED8cXKAmyx6zITss/edit#slide=id.p
+https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Documents/Project_Presentation.pdf    
+The final report link:  
+https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Documents/Project_Report.pdf
