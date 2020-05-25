@@ -23,7 +23,7 @@ Our models:
 
 * [Initial visual models](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/visual_models.ipynb)
 
-[Visual emotion recognition](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/visual_emotion_recognition.ipynb)
+* [Visual emotion recognition](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/visual_emotion_recognition.ipynb)
 
 * [Pre-trained VGG model](https://github.com/Yunhua468/Audio-Visual-Emotion-and-Sentiment-Research/blob/master/Notebooks/Patrick_Jean-Baptiste/visual_pre-trained_model.ipynb)  
 
